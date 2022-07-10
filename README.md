@@ -44,11 +44,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/andr%C3%A9-heller-1172a4235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.facebook.com/andre.heller.98" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
     
-      ![Snake animation](https://github.com/andreheller87/andreheller87/blob/output/github-contribution-grid-snake.svg)
+      
   </div>
+  <div>
   
+  ![Snake animation](https://github.com/andreheller87/andreheller87/blob/output/github-contribution-grid-snake.svg)
   
-  
+   </div>
   
   
   
