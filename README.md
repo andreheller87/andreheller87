@@ -13,8 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## André Heller.
 
-## André Heller, Estudante de Ciência da Computação!
+<div style="text-align: center;" align="center">
+<h2>Meu Portfólio e Linkedin:</h2>
+<a style="display: inline-block;"  href="https://andreheller87.github.io/PortFolio/">
+  <img style="width: 300px;"  height="180em" src="https://github.com/andreheller87/PortFolio/blob/main/ImgPortfolio.png"/><a/>
+    <a style="display: inline-block;"  href="https://www.linkedin.com/in/andreheller87/">
+  <img style="width: 300px;"  height="180em" src="https://github.com/andreheller87/PortFolio/blob/main/printLinkdin.png"/><a/>
+</div>
+  
+##
+  
 <div align="center">
   <a href="https://github.com/andreheller87">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreheller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
