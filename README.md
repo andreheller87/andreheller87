@@ -23,14 +23,23 @@ Here are some ideas to get you started:
   <img style="width: 300px;"  height="180em" src="https://github.com/andreheller87/PortFolio/blob/main/printLinkdin.png"/><a/>
 </div>
   
-##
-  
-<div align="center">
-  <a href="https://github.com/andreheller87">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreheller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreheller87&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## 
  
+<table style="text-align: center;" align="center">
+   <h2 style="text-align: center;" align="center">Linguagens e progresso do GIT.</h2>
+  <tr>
+    <td align="center">
+  <a  href="https://github.com/andreheller87">
+  <img style="width: 300px; height= 200em;" src="https://github-readme-stats.vercel.app/api?username=andreheller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+       </a>
+     </td>
+    <td align="center">
+       <a  href="https://github.com/andreheller87">
+  <img style="width: 300px;" height="180em" style="width: 300px; height=180em;"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreheller87&layout=compact&langs_count=7&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+</table>
   
   ##
   
