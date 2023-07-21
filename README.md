@@ -66,12 +66,7 @@ Here are some ideas to get you started:
       
   </div>
   
-  <div>
-  
-  ![Snake animation](https://github.com/andreheller87/andreheller87/blob/output/github-contribution-grid-snake.svg)
-  
-   </div>
-  
+
   
   
   
