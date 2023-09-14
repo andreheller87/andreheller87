@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a style="display: inline-block;"  href="https://andreheller87.github.io/PortFolio/">
   <img style="width: 300px;"  height="180em" src="https://github.com/andreheller87/PortFolio/blob/main/ImgPortfolio.png"/><a/>
     <a style="display: inline-block;"  href="https://www.linkedin.com/in/andreheller87/">
-  <img style="width: 300px;"  height="180em" src="https://github.com/andreheller87/PortFolio/blob/main/printLinkdin.png"/><a/>
+  <img style="width: 300px; "  height="180em" src="https://github.com/andreheller87/PortFolio/blob/main/printLinkdin.png"/><a/>
 </div>
   
 ## 
