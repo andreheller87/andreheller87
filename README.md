@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div style="text-align: center;" align="center">
 <h2>Meu Portfólio e Linkedin:</h2>
 <a style="display: inline-block;"  href="https://andreheller87.github.io/PortFolio/">
-  <img style="width: 300px;"  height="180em" src="https://github.com/andreheller87/PortFolio/blob/main/ImgPortfolio.png"/><a/>
+  <img style="width: 300px;"  height="180em" src="https://github.com/andreheller87/PortFolio/blob/main/ImgPortfolio.jpeg"/><a/>
     <a style="display: inline-block;"  href="https://www.linkedin.com/in/andreheller87/">
   <img style="width: 300px; "  height="180em" src="https://github.com/andreheller87/PortFolio/blob/main/printLinkdin.png"/><a/>
 </div>
