@@ -23,32 +23,15 @@ Here are some ideas to get you started:
   <img style="width: 300px; "  height="180em" src="https://github.com/andreheller87/PortFolio/blob/main/printLinkdin.png"/><a/>
 </div>
   
-## 
+
  
-<h2 align="center">Linguagens e progresso do GIT</h2>
+
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/andreheller87">
-        <img
-          width="400"
-          src="https://github-readme-stats.vercel.app/api?username=andreheller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-          alt="Estatísticas do GitHub"
-        />
-      </a>
-    </td>
-
-    <td align="center">
-      <a href="https://github.com/andreheller87">
-        <img
-          width="400"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreheller87&layout=compact&langs_count=7&theme=dark"
-          alt="Linguagens mais utilizadas"
-        />
-      </a>
-    </td>
-  </tr>
+     
+    
 </table>
   
   ##
